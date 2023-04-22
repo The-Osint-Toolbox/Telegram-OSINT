@@ -47,6 +47,7 @@
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Bellingcat, Phone Number Checker</a></li>
   <p>This script lets you check whether a specific phone number is connected to a Telegram account.</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
+  <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>
  <li><a href="https://telemetr.io/en/channels">Telemetr</a></li>
   <p>Analyze Telegram Channels.</p>
