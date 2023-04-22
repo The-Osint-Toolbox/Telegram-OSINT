@@ -49,6 +49,7 @@
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>
+  <p>Discover the location of nearby Telegram users.</p>
  <li><a href="https://telemetr.io/en/channels">Telemetr</a></li>
   <p>Analyze Telegram Channels.</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
