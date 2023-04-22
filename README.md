@@ -27,7 +27,9 @@
   <li><a href="https://hatless1der.com/telegram-osint-from-the-outside/">Hatless1der, Osint From The Outside</a></li>
    <p>A list of useful tools, techniques, tradecraft and tactics on how to research Telegram.</p>
   <li><a href="https://os2int.com/toolbox/geo-monitoring-telegram-user-activity-with-telegram-nearby-map/">Os2int, Nearby Map</a></li>
-  <li><a href="https://tomsguide.com/us/how-to-use-telegram,news-29636.html">Tomsguide, How To Use Telegram</a></li>
+   <p>A blog on how to geo-monitor user activity with Telegram nearby map.</p>
+  <li><a href="https://tomsguide.com/us/how-to-use-telegram,news-29636.html">Tomsguide, How To Use Telegram</a></li> 
+   <p>A beginners guide on how to use Telegram</p>
  </ul>
 <br></br> 
 <p>Browser Extensions</p>
