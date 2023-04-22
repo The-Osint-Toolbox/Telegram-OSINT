@@ -4,10 +4,11 @@
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
 <br></br>
-<p>I have created a separate Repository for Telegram as there is a large amount of resources available. Remember if you are investigating / researching on the actual platform to beware of your own OPSEC. 
+<p>I have created this separate Repository for Telegram as there is a large amount of resources available. Remember if you are investigating / researching on the actual platform to beware of your own OPSEC. 
 </p>
 <p>Consider, disposable devices, which you can reformat, Virtual Machines, VPNs, anti virus, malware protection, sock accounts and don’t forget your settings. You may want to disable automatic downloads, in your settings, this may prevent you inadvertently downloading something.
 </p>
+<p>Check that you are happy with any of the resources you use, as an example the two browser extensions have quite evasive privacy polices, read them first before using them.</P>
 <br></br>
 <table>
  <tr>
