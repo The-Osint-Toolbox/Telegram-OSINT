@@ -28,7 +28,7 @@
   <li><a href="https://hatless1der.com/telegram-osint-from-the-outside/">Hatless1der, Osint From The Outside</a></li>
    <p>A list of useful tools, techniques, tradecraft and tactics on how to research Telegram.</p>
   <li><a href="https://www.osintcombine.com/post/telegram-chats-media">Osint Combine</a></li>
-   <p>Comphrensive Blog on Telegram chats & media.</p>
+   <p>Details of Telegram chats & media.</p>
   <li><a href="https://www.osintme.com/index.php/2022/10/18/the-osint-me-ultimate-guide-to-telegram-osint-and-privacy/">Osint Me</a></li> 
    <p>The Osint Me ultimate guide to Telegram OSINT and privacy.</p>
   <li><a href="https://os2int.com/toolbox/batch-scraping-from-telegram-channels-and-groups-using-tg-api/">Os2int, Batch Scraping</a></li> 
