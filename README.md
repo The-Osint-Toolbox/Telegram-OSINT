@@ -55,6 +55,7 @@
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
   <p>Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.</p>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Message Analyzer</a></li>
+  <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
  <li><a href="https://lyzem.com/">Lyzem</a></li>
  <li><a href="https://telegramchannels.me/">Telegramchannels.me</a></li>
  <li><a href="https://telegcrack.com/">Telegrack.com</a></li>
