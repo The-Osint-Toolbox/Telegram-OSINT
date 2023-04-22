@@ -17,6 +17,7 @@
 <p>Blogs</p>
  <ul>
   <li><a href="https://www.aware-online.com/en/category/telegram-en/">Aware-Online, Geolocation</a></li>
+   <p>How to search Telegram groups based on location.</p>
   <li><a href="https://cqcore.uk/telegram-fundamentals/">Cqcore, Telegram Fundamentals</a></li>
   <li><a href="https://medium.com/@cyb_detective/analyzing-telegram-chats-and-channels-regular-expressions-in-osint-in-practice-48810d5b77e6">Cyber Detective, Chats & Channels</a></li>
   <li><a href="https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/">Hatless1der, Five Basic Tips</a></li>
