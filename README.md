@@ -29,6 +29,15 @@
   <li><a href="https://os2int.com/toolbox/geo-monitoring-telegram-user-activity-with-telegram-nearby-map/">Os2int, Nearby Map</a></li>
   <li><a href="https://tomsguide.com/us/how-to-use-telegram,news-29636.html">Tomsguide, How To Use Telegram</a></li>
  </ul>
+<br></br> 
+<p>Browser Extensions</p>
+<ul>
+  <li><a href="https://chrome.google.com/webstore/detail/telegram-sender-telegram/kchbblidjcniipdkjlbjjakgdlbfnhgh">Telegram Sender</a></li>
+   <p>Extension for scraping user information from Telegram groups.</p>
+  <li><a href="https://chrome.google.com/webstore/detail/telegram-search-engine-tg/ilpgiemienkecbgdhdbgdjkafodgfojl">Telegram Search Engine</a></li>
+   <p>Extension for searching and scraping Telegram groups links and channel links.</p>
+</ul> 
+<br></br> 
 <p>Resources</p>
 <ul>
  <li><a href="https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1">Telegago CSE</a></li>
@@ -43,11 +52,10 @@
  <li><a href="https://lyzem.com/">Lyzem</a></li>
  <li><a href="https://telegramchannels.me/">Telegramchannels.me</a></li>
  <li><a href="https://telegcrack.com/">Telegrack.com</a></li>
-   <li><a href="https://chrome.google.com/webstore/detail/telegram-sender-telegram/kchbblidjcniipdkjlbjjakgdlbfnhgh">Telegram Sender</a></li>
- <p>Extension for scraping user information from Telegram groups.</p>
  <li><a href="https://tgstat.com/">Tgstat.com</a></li>
  <li><a href="https://tlgrm.eu/channels">Tlgrm</a></li>
 </ul>
+<br></br> 
 <p>Telegram Bots</p>
 <ul>
   <li><a href="https://airtable.com/shrGXOv6HGjLojFfE/tbleF3EFRKW4Uf3Ak">Country Bot List</a></li>
@@ -62,6 +70,7 @@
   <li><a href="https://t.me/whois_bot">Whois Bot</a></li>
   <li><a href="https://t.me/WhoisDom_bot">Whois Domain Bot</a></li>
 </ul>
+<br></br> 
 <p>Videos</p>
 <ul>
   <li><a href="https://youtube.com/c/elysium2020">Elysium</a></li>
