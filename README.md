@@ -59,7 +59,9 @@
  <li><a href="https://lyzem.com/">Lyzem</a></li>
   <p>Lyzem is a search engine created specifically for Telegram.</p>
  <li><a href="https://telegramchannels.me/">Telegramchannels.me</a></li>
+  <p>Directory of The Best Telegram Channels, Groups, and Bots.</p>
  <li><a href="https://telegcrack.com/">Telegrack.com</a></li>
+  <p>Telecrack is a search engine enabling you to search telegra.ph</p>
  <li><a href="https://github.com/estebanpdl/telegram-tracker">Telegram Tracker</a></li>
   <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
  <li><a href="https://tgstat.com/">Tgstat.com</a></li> 
