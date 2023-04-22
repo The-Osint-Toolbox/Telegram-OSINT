@@ -43,6 +43,8 @@
  <li><a href="https://lyzem.com/">Lyzem</a></li>
  <li><a href="https://telegramchannels.me/">Telegramchannels.me</a></li>
  <li><a href="https://telegcrack.com/">Telegrack.com</a></li>
+   <li><a href="https://chrome.google.com/webstore/detail/telegram-sender-telegram/kchbblidjcniipdkjlbjjakgdlbfnhgh">Telegram Sender</a></li>
+ <p>Extension for scraping user information from Telegram groups.</p>
  <li><a href="https://tgstat.com/">Tgstat.com</a></li>
  <li><a href="https://tlgrm.eu/channels">Tlgrm</a></li>
 </ul>
