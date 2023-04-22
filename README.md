@@ -27,6 +27,8 @@
    <p>Tips on how to use Google dorking and inpsect element to research Telegram.</p>
   <li><a href="https://hatless1der.com/telegram-osint-from-the-outside/">Hatless1der, Osint From The Outside</a></li>
    <p>A list of useful tools, techniques, tradecraft and tactics on how to research Telegram.</p>
+  <li><a href="https://www.osintcombine.com/post/telegram-chats-media">Osint Combine</a></li>
+   <p>Comphrensive Blog on Telegram chats & media.</p>
   <li><a href="https://os2int.com/toolbox/batch-scraping-from-telegram-channels-and-groups-using-tg-api/">Os2int, Batch Scraping</a></li> 
    <p>Batch scraping from Telegram channels and groups, using TG-API.</p>
   <li><a href="https://os2int.com/toolbox/geo-monitoring-telegram-user-activity-with-telegram-nearby-map/">Os2int, Nearby Map</a></li>
