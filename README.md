@@ -67,6 +67,7 @@
  <li><a href="https://tgstat.com/">Tgstat.com</a></li> 
   <p>Telegram channels and groups catalogue.</p>
  <li><a href="https://tlgrm.eu/channels">Tlgrm</a></li>
+  <p>Discover interesting channels for your Telegram.</p>
 </ul>
 <br></br> 
 <p>Telegram Bots</p>
