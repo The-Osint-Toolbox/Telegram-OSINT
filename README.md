@@ -65,7 +65,7 @@
  <li><a href="https://github.com/estebanpdl/telegram-tracker">Telegram Tracker</a></li>
   <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
  <li><a href="https://tgstat.com/">Tgstat.com</a></li> 
- <li><a href="https://tgstat.com/">Tgstat.com</a></li>
+  <p>Telegram channels and groups catalogue.</p>
  <li><a href="https://tlgrm.eu/channels">Tlgrm</a></li>
 </ul>
 <br></br> 
