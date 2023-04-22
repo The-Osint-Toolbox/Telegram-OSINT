@@ -53,6 +53,7 @@
  <li><a href="https://telemetr.io/en/channels">Telemetr</a></li>
   <p>Analyze Telegram Channels.</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
+  <p>Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.</p>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Message Analyzer</a></li>
  <li><a href="https://lyzem.com/">Lyzem</a></li>
  <li><a href="https://telegramchannels.me/">Telegramchannels.me</a></li>
