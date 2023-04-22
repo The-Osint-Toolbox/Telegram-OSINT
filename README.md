@@ -25,6 +25,7 @@
   <li><a href="https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/">Hatless1der, Five Basic Tips</a></li>
    <p>Tips on how to use Google dorking and inpsect element to research Telegram.</p>
   <li><a href="https://hatless1der.com/telegram-osint-from-the-outside/">Hatless1der, Osint From The Outside</a></li>
+   <p>A list of useful tools, techniques, tradecraft and tactics on how to research Telegram.</p>
   <li><a href="https://os2int.com/toolbox/geo-monitoring-telegram-user-activity-with-telegram-nearby-map/">Os2int, Nearby Map</a></li>
   <li><a href="https://tomsguide.com/us/how-to-use-telegram,news-29636.html">Tomsguide, How To Use Telegram</a></li>
  </ul>
