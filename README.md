@@ -42,9 +42,6 @@
 <br></br> 
 <p>Resources</p>
 <ul>
- <li><a href="https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1">Telegago CSE</a></li>
- <li><a href="https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0">Commentgram CSE</li>
- <li><a href="https://cse.google.com/cse?cx=004805129374225513871%3Ap8lhfo0g3hg">Telegram CSE</a></li>
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Bellingcat, Phone Number Checker</a></li>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>
@@ -73,6 +70,13 @@
   <li><a href="https://t.me/WhoisDom_bot">Whois Domain Bot</a></li>
 </ul>
 <br></br> 
+<p>Telegram Custom Search Engines</p>
+<ul>
+  <li><a href="https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0">Commentgram CSE</li>
+  <li><a href="https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1">Telegago CSE</a></li>
+  <li><a href="https://cse.google.com/cse?cx=004805129374225513871%3Ap8lhfo0g3hg">Telegram CSE by Francesco Poldi</a></li>
+</ul>
+<br></br>
 <p>Videos</p>
 <ul>
   <li><a href="https://youtube.com/c/elysium2020">Elysium</a></li>
