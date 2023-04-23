@@ -99,6 +99,12 @@
   <li><a href="https://cse.google.com/cse?cx=004805129374225513871%3Ap8lhfo0g3hg">Telegram CSE by Francesco Poldi</a></li>
 </ul>
 <br></br>
+<p>URL Structure</p>
+<ul>
+ <li>t.me/USERNAME</li>
+ <li>web.telegram.org/k/#@USERNAME</li>
+</ul>
+<br></br>
 <p>Videos</p>
 <ul>
   <li><a href="https://youtube.com/c/elysium2020">Elysium</a></li>
