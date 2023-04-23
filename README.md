@@ -83,6 +83,7 @@
 <ul>
   <li><a href="https://airtable.com/shrGXOv6HGjLojFfE/tbleF3EFRKW4Uf3Ak">Country Bot List</a></li>
   <li><a href="https://t.me/dataLeaks_bot">Data leaks Bot</a></li>
+   <p>You can search for personal data by name, phone or email.</p>
   <li><a href="https://t.me/howtofindbots">How To Find Bots</a></li>
   <li><a href="https://t.me/findmenow_bot">Find Me Now Bot</a></li>
   <li><a href="https://web.telegram.org/k/#@LeakCheckBot">Leak Check Bot</a></li>
