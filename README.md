@@ -51,6 +51,8 @@
 <br></br> 
 <p>Resources</p>
 <ul>
+ <li><a href="https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT">Awesome-Telegram-OSINT</a></li>
+  <p>A Curated List of Awesome Telegram OSINT Tools, Sites & Resources.</p> 
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Bellingcat, Phone Number Checker</a></li>
   <p>This script lets you check whether a specific phone number is connected to a Telegram account.</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
