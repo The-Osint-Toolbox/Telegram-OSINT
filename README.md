@@ -86,7 +86,7 @@
   <li><a href="https://t.me/howtofindbots">How To Find Bots</a></li>
   <li><a href="https://t.me/findmenow_bot">Find Me Now Bot</a></li>
   <li><a href="https://web.telegram.org/k/#@LeakCheckBot">Leak Check Bot</a></li>
-   <p>Check Email & Usernames</p>
+   <p>Check Email & Usernames.</p>
   <li><a href="https://t.me/maigret_osint_bot">Maigret Osint Bot</a></li>
   <li><a href="https://t.me/MailLeakBot">Mail Leak Bot</a></li>
   <li><a href="https://t.me/PhoneLeaks_Bot">Phone Leaks Bot</a></li>
