@@ -82,6 +82,7 @@
 <p>Telegram Bots</p>
 <ul>
   <li><a href="https://airtable.com/shrGXOv6HGjLojFfE/tbleF3EFRKW4Uf3Ak">Country Bot List</a></li>
+   <p>List of Bots by country and worldwide.</p>
   <li><a href="https://t.me/dataLeaks_bot">Data leaks Bot</a></li>
    <p>You can search for personal data by name, phone or email.</p>
   <li><a href="https://t.me/howtofindbots">How To Find Bots</a></li>
