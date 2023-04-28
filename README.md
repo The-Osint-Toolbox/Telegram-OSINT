@@ -43,6 +43,8 @@
 <br></br> 
 <p>Browser Extensions</p>
 <ul>
+  <li><a href="https://github.com/pigpagnet/save-telegram-chat-history">Save Telegram Chat History</a></li>
+   <p>Extension save Telegram chat history, including photos and works on deleted accounts.</p>
   <li><a href="https://chrome.google.com/webstore/detail/telegram-sender-telegram/kchbblidjcniipdkjlbjjakgdlbfnhgh">Telegram Sender</a></li>
    <p>Extension for scraping user information from Telegram groups.</p>
   <li><a href="https://chrome.google.com/webstore/detail/telegram-search-engine-tg/ilpgiemienkecbgdhdbgdjkafodgfojl">Telegram Search Engine</a></li>
