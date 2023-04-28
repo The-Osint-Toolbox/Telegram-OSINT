@@ -114,6 +114,7 @@
 <ul>
  <li>t.me/USERNAME</li>
  <li>web.telegram.org/k/#@USERNAME</li>
+ <li>t.me/joinchat/HASHVAUE</li>
 </ul>
 <br></br>
 <p>Videos</p>
