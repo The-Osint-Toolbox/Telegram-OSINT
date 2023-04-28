@@ -89,7 +89,6 @@
    <p>You can search for personal data by name, phone or email.</p>
   <li><a href="https://t.me/howtofindbots">How To Find Bots</a></li>
    <p>Paid Bot, I will help you find information from open sources.</p>
-  <li><a href="https://t.me/findmenow_bot">Find Me Now Bot</a></li>
   <li><a href="https://web.telegram.org/k/#@LeakCheckBot">Leak Check Bot</a></li>
    <p>Check Email & Usernames.</p>
   <li><a href="https://t.me/maigret_osint_bot">Maigret Osint Bot</a></li>
