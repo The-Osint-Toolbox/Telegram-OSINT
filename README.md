@@ -59,22 +59,24 @@
   <p>This script lets you check whether a specific phone number is connected to a Telegram account.</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
+ <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Message Analyzer</a></li>
+  <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
+ <li><a href="https://lyzem.com/">Lyzem</a></li>
+  <p>Lyzem is a search engine created specifically for Telegram.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>
   <p>Discover the location of nearby Telegram users.</p>
  <li><a href="https://telemetr.io/en/channels">Telemetr</a></li>
   <p>Analyze Telegram Channels.</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
   <p>Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.</p>
- <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Message Analyzer</a></li>
-  <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
- <li><a href="https://lyzem.com/">Lyzem</a></li>
-  <p>Lyzem is a search engine created specifically for Telegram.</p>
  <li><a href="https://telegramchannels.me/">Telegramchannels.me</a></li>
   <p>Directory of The Best Telegram Channels, Groups, and Bots.</p>
  <li><a href="https://telegcrack.com/">Telegrack.com</a></li>
   <p>Telecrack is a search engine enabling you to search telegra.ph</p>
  <li><a href="https://github.com/estebanpdl/telegram-tracker">Telegram Tracker</a></li>
   <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
+ <li><a href="https://tgbots.io/">Tgbots</a></li> 
+  <p>Website for searching for Telegram Bots.</p>
  <li><a href="https://tgstat.com/">Tgstat.com</a></li> 
   <p>Telegram channels and groups catalogue.</p>
  <li><a href="https://tlgrm.eu/channels">Tlgrm</a></li>
@@ -98,12 +100,15 @@
   <li><a href="https://t.me/PhoneLeaks_Bot">Phone Leaks Bot</a></li>
    <p>Telephone Bot for searching for telephone numbers, linked to Data1eaks channel.</p>
   <li><a href="https://t.me/sovaappbot">SOVA App Bot</a></li>
+   <p>A Bot for searching for different kinds of identifiers.</p>
+  <li><a href="https://t.me/tgscanrobot">Tgscanrobot</a></li> 
+   <p>A Bot for finding Telegram groups of a persons.</p>
   <li><a href="https://web.telegram.org/k/#@tgdb_bot">TelegramDB Search Bot</a></li>
    <p>This bot allows you to find public channels and groups, and see what public chats a user is in, or has been in.</p>
   <li><a href="https://t.me/universalsearchbot">Universal Search Bot</a></li>
    <p>Search multiple sources for phone numbers, username, email addresses etc.</p>
   <li><a href="https://t.me/whois_bot">Whois Bot</a></li>
-  <li><a href="https://t.me/WhoisDom_bot">Whois Domain Bot</a></li>
+   <p>A simple domain whois lookup Bot</p>
 </ul>
 <br></br> 
 <p>Telegram Custom Search Engines</p>
