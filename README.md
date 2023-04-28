@@ -87,6 +87,8 @@
    <p>List of Bots by country and worldwide.</p>
   <li><a href="https://t.me/dataLeaks_bot">Data leaks Bot</a></li>
    <p>You can search for personal data by name, phone or email.</p>
+  <li><a href="https://web.telegram.org/k/#@EmailLeaks_bot">Email Bot</a></li>
+   <p>Email Bot for searching for emails, linked to Data1eaks channel.</p>
   <li><a href="https://t.me/howtofindbots">How To Find Bots</a></li>
    <p>Paid Bot, I will help you find information from open sources.</p>
   <li><a href="https://web.telegram.org/k/#@LeakCheckBot">Leak Check Bot</a></li>
@@ -94,6 +96,7 @@
   <li><a href="https://t.me/maigret_osint_bot">Maigret Osint Bot</a></li>
    <p>Bot version of the popular CLI username search.</p>
   <li><a href="https://t.me/PhoneLeaks_Bot">Phone Leaks Bot</a></li>
+   <p>Telephone Bot for searching for telephone numbers, linked to Data1eaks channel.</p>
   <li><a href="https://t.me/sovaappbot">SOVA App Bot</a></li>
   <li><a href="https://web.telegram.org/k/#@tgdb_bot">TelegramDB Search Bot</a></li>
    <p>This bot allows you to find public channels and groups, and see what public chats a user is in, or has been in.</p>
