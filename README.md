@@ -93,7 +93,6 @@
    <p>Check Email & Usernames.</p>
   <li><a href="https://t.me/maigret_osint_bot">Maigret Osint Bot</a></li>
    <p>Bot version of the popular CLI username search.</p>
-  <li><a href="https://t.me/MailLeakBot">Mail Leak Bot</a></li>
   <li><a href="https://t.me/PhoneLeaks_Bot">Phone Leaks Bot</a></li>
   <li><a href="https://t.me/sovaappbot">SOVA App Bot</a></li>
   <li><a href="https://web.telegram.org/k/#@tgdb_bot">TelegramDB Search Bot</a></li>
