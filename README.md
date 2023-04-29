@@ -124,11 +124,13 @@
 <ul>
  <li>t.me/USERNAME</li>
  <li>web.telegram.org/k/#@USERNAME</li>
- <li>t.me/joinchat/HASHVAUE</li>
+ <li>t.me/joinchat/HASHVALUE</li>
 </ul>
 <br></br>
 <p>Videos</p>
 <ul>
+  <li><a href="https://www.google.com/search?q=how+to+obtain+a+telegram+api&tbm=vid&ved=2ahUKEwiUmNnCyM7-AhUslIkEHZznBYwQ0pQJegQICxAB&dpr=1.14#fpstate=ive&vld=cid:ff15ab9b,vid:8naENmP3rg4">Bemro</a></li>
+   <p>How to obtain a Telegram API</p>
   <li><a href="https://youtube.com/c/elysium2020">Elysium</a></li>
    <p>How to use Telepathy & Geogramint</p>
   <li><a href="https://youtube.com/watch?v=e_aXQYq2l6U&list=PLwZhZIRPgM1mhZKlhAx7xgbbr4EuAPczi&index=6">Dutch Osint Guy</a></li>
@@ -137,5 +139,11 @@
    <p>Geo-locating Telegram users with Telepathy.</p>
   <li><a href="https://www.youtube.com/watch?v=ruOZpW_QcVE">Patrick Rus</a></li>
    <p>Leveraging Telegram Bots to automate country specific OSINT Workflows.</p>
+</ul>
+<br></br>
+<p>YouTube Telegram Playlists</p>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=h2n-GN-4NJ4&list=PLqFbUIb5MftVSuZw0PTRuTWG33OxB8hkx">Apple Guy</a></li>
+  <li><a href="https://www.youtube.com/watch?v=8naENmP3rg4&list=PLa1uBOkthszRX38MxHuLDE5eX7IHlNj-N">Bemro</a></li>
 </ul>
 <br><br/>
