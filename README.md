@@ -8,7 +8,7 @@
 </p>
 <p>Consider, disposable devices, which you can reformat, Virtual Machines, VPNs, anti virus, malware protection, sock accounts and don’t forget your settings. You may want to disable automatic downloads, in your settings, this may prevent you inadvertently downloading something.
 </p>
-<p>Check that you are happy with any of the resources you use, as an example the two browser extensions have quite evasive privacy polices, read them first before using them.</P>
+<p>Check that you are happy with any of the resources you use, as an example,two of the browser extensions have quite evasive privacy polices, read them first before using them.</P>
 <br></br>
 <table>
  <tr>
