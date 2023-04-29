@@ -91,7 +91,7 @@
    <p>List of Bots by country and worldwide.</p>
   <li><a href="https://t.me/dataLeaks_bot">Data leaks Bot</a></li>
    <p>You can search for personal data by name, phone or email.</p>
-  <li><a href="https://web.telegram.org/k/#@EmailLeaks_bot">Email Bot</a></li>
+  <li><a href="https://t.me/EmailLeaks_bot">Email Bot</a></li>
    <p>Email Bot for searching for emails, linked to Data1eaks channel.</p>
   <li><a href="https://t.me/howtofindbots">How To Find Bots</a></li>
    <p>Paid Bot, I will help you find information from open sources.</p>
