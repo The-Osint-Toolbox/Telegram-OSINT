@@ -143,6 +143,13 @@
    <p>Leveraging Telegram Bots to automate country specific OSINT Workflows.</p>
 </ul>
 <br></br>
+<p>Search Engine</p>
+<ul>
+ <li><a href="https://yandex.com/">Yandex</a></li>
+ <li><a href="https://translate.yandex.com/ocr">Yandex OCR</a></li>
+ <li><a href="https://translate.yandex.com/">Yandex Translate</a></li>
+</ul>
+<br></br>
 <p>YouTube Telegram Playlists</p>
 <ul>
   <li><a href="https://www.youtube.com/watch?v=h2n-GN-4NJ4&list=PLqFbUIb5MftVSuZw0PTRuTWG33OxB8hkx">Apple Guy</a></li>
