@@ -87,6 +87,8 @@
 <br></br> 
 <p>Telegram Bots</p>
 <ul>
+   <lI><a href="https://t.me/botodetective">Boto Detective</a></li>
+    <p>Find information about people using phone numbers, names, email addresses, and social network IDs.<p>
   <li><a href="https://airtable.com/shrGXOv6HGjLojFfE/tbleF3EFRKW4Uf3Ak">Country Bot List</a></li>
    <p>List of Bots by country and worldwide.</p>
   <li><a href="https://t.me/dataLeaks_bot">Data leaks Bot</a></li>
