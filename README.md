@@ -133,6 +133,7 @@
  <li>t.me/USERNAME</li>
  <li>web.telegram.org/k/#@USERNAME</li>
  <li>t.me/joinchat/HASHVALUE</li>
+ <li>t.me/+TELEPHONE-NUMBER</li> 
 </ul>
 <br></br>
 <p>Search Engine</p>
