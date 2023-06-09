@@ -19,12 +19,15 @@
  <ul>
   <li><a href="https://www.aware-online.com/en/category/telegram-en/">Aware-Online, Geolocation</a></li>
    <p>How to search Telegram groups based on location.</p>
-  <li><a href="https://cqcore.uk/telegram-fundamentals/">Cqcore, Telegram Fundamentals</a></li>
-   <p>How to set a Telegram account up and the OPSEC issues you need to know.</p>
-  <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-1/">Cqcore, Telegram VM Part 1</a></li>
-   <p>Learn how to build a bespoke Virtual Machine for Telegram OSINT.</p>
-  <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-2/">Cqcore, Telegram VM Part 2</a></li> 
-   <p>Continue the Telegram OSINT VM build</p>
+  <li><a href="https://cqcore.uk/telegram-fundamentals/">Cqcore, Telegram Fundamentals<</a></li>
+   <p>How to set a Telegram account up and the OPSEC issues you need to know. (2022)</p>
+  <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-1/">Cqcore, Telegram VM Part 1<</a></li>
+   <p>Learn how to build a bespoke Virtual Machine for Telegram OSINT. (2023)</p>
+  <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-2/">Cqcore, Telegram VM Part 2<</a></li> 
+   <p>Continue the Telegram OSINT VM build. (2023)</p>
+  <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-3/">Cqcore Telegram VM Part 3</a></li> 
+   <p>The final part of the OSINT VM build. (2023)</p>
+
   <li><a href="https://medium.com/@cyb_detective/analyzing-telegram-chats-and-channels-regular-expressions-in-osint-in-practice-48810d5b77e6">Cyber Detective, Chats & Channels</a></li>
    <p>Analyzing Telegram chats and channels. Regular expressions in OSINT in practice.</p>
   <li><a href="https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/">Hatless1der, Five Basic Tips</a></li>
@@ -41,8 +44,10 @@
    <p>A blog on how to geo-monitor user activity with Telegram nearby map.</p>
   <li><a href="https://projetfox.com/en/2022/08/geogramint-an-osint-geolocalization-tool-for-telegram/">ProjectFox</a></li> 
    <p>This a Blog from the Team behind Geogramint, an OSINT geolocalization tool for Telegram.</p>
+  <li><a href="https://medium.com/@TheInvestigatorBlog/best-online-tools-for-telegram-investigations-9746b17c90d8">The Investigator Blog</a></li> 
+   <p>Best Online Tools for Telegram Investigations. (2023)</p>
   <li><a href="https://tomsguide.com/us/how-to-use-telegram,news-29636.html">Tomsguide, How To Use Telegram</a></li> 
-   <p>A beginners guide on how to use Telegram</p>
+   <p>A beginners guide on how to use Telegram. (2022)</p>
  </ul>
 <br></br> 
 <p>Browser Extensions</p>
@@ -134,6 +139,13 @@
  <li>web.telegram.org/k/#@USERNAME</li>
  <li>t.me/joinchat/HASHVALUE</li>
  <li>t.me/+TELEPHONE-NUMBER</li> 
+</ul>
+<br></br>
+<p>Google Dorks</p>
+<ul>
+ <li>site:t.me “search term”</li>
+ <li>site:telegram.me “search term”</li>
+ <li>“t.me/joinchat” “search term”</li>
 </ul>
 <br></br>
 <p>Search Engine</p>
