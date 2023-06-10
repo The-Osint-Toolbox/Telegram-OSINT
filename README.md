@@ -27,7 +27,6 @@
    <p>Continue the Telegram OSINT VM build. (2023)</p>
   <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-3/">Cqcore Telegram VM Part 3</a></li> 
    <p>The final part of the OSINT VM build. (2023)</p>
-
   <li><a href="https://medium.com/@cyb_detective/analyzing-telegram-chats-and-channels-regular-expressions-in-osint-in-practice-48810d5b77e6">Cyber Detective, Chats & Channels</a></li>
    <p>Analyzing Telegram chats and channels. Regular expressions in OSINT in practice.</p>
   <li><a href="https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/">Hatless1der, Five Basic Tips</a></li>
@@ -82,6 +81,8 @@
   <p>Directory of The Best Telegram Channels, Groups, and Bots.</p>
  <li><a href="https://telegcrack.com/">Telegrack.com</a></li>
   <p>Telecrack is a search engine enabling you to search telegra.ph</p>
+ <li><a href="https://www.telegramdb.org/search">TelegramDB</a></li> 
+  <p>A search engine to search for channels, groups, bots and users on Telegram.</p>
  <li><a href="https://tdirectory.me/">Telegram Directory</a></li> 
   <p>Discover Popular Telegram Channels, Groups, Bots and Games.</p>
  <li><a href="https://xtea.io/ts_en.html#gsc.tab=0">Telegram Search Engine</a></li> 
