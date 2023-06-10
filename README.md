@@ -19,11 +19,11 @@
  <ul>
   <li><a href="https://www.aware-online.com/en/category/telegram-en/">Aware-Online, Geolocation</a></li>
    <p>How to search Telegram groups based on location.</p>
-  <li><a href="https://cqcore.uk/telegram-fundamentals/">Cqcore, Telegram Fundamentals<</a></li>
+  <li><a href="https://cqcore.uk/telegram-fundamentals/">Cqcore, Telegram Fundamentals</a></li>
    <p>How to set a Telegram account up and the OPSEC issues you need to know. (2022)</p>
-  <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-1/">Cqcore, Telegram VM Part 1<</a></li>
+  <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-1/">Cqcore, Telegram VM Part 1</a></li>
    <p>Learn how to build a bespoke Virtual Machine for Telegram OSINT. (2023)</p>
-  <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-2/">Cqcore, Telegram VM Part 2<</a></li> 
+  <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-2/">Cqcore, Telegram VM Part 2</a></li> 
    <p>Continue the Telegram OSINT VM build. (2023)</p>
   <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-3/">Cqcore Telegram VM Part 3</a></li> 
    <p>The final part of the OSINT VM build. (2023)</p>
@@ -82,6 +82,8 @@
   <p>Directory of The Best Telegram Channels, Groups, and Bots.</p>
  <li><a href="https://telegcrack.com/">Telegrack.com</a></li>
   <p>Telecrack is a search engine enabling you to search telegra.ph</p>
+ <li><a href="https://tdirectory.me/">Telegram Directory</a></li> 
+  <p>Discover Popular Telegram Channels, Groups, Bots and Games.</p>
  <li><a href="https://xtea.io/ts_en.html#gsc.tab=0">Telegram Search Engine</a></li> 
   <p>Search for Channels, Bots & Groups.</p>
  <li><a href="https://github.com/estebanpdl/telegram-tracker">Telegram Tracker</a></li>
