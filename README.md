@@ -131,6 +131,7 @@
 <p>Telegram Custom Search Engines</p>
 <ul>
   <li><a href="https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0">Commentgram CSE</li>
+  <li><a href="https://cse.google.com/cse?cx=6c3e0c0d3da8e3b4a">OSINT ME CSE</a></li>  
   <li><a href="https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1">Telegago CSE</a></li>
   <li><a href="https://cse.google.com/cse?cx=004805129374225513871%3Ap8lhfo0g3hg">Telegram CSE by Francesco Poldi</a></li>
 </ul>
