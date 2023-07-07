@@ -33,6 +33,8 @@
    <p>Tips on how to use Google dorking and inpsect element to research Telegram.</p>
   <li><a href="https://hatless1der.com/telegram-osint-from-the-outside/">Hatless1der, Osint From The Outside</a></li>
    <p>A list of useful tools, techniques, tradecraft and tactics on how to research Telegram.</p>
+  <li><a href="https://gijn.org/2023/06/30/social-search-techniques-using-tiktok-telegram-from-henk-van-ess/">Henk van Ess (2023)</a></li>
+   <p>Social search techniques using TokTok and Telegram.</p>
   <li><a href="https://www.osintcombine.com/post/telegram-chats-media">Osint Combine</a></li>
    <p>Details of Telegram chats & media.</p>
   <li><a href="https://www.osintme.com/index.php/2022/10/18/the-osint-me-ultimate-guide-to-telegram-osint-and-privacy/">Osint Me</a></li> 
@@ -43,6 +45,8 @@
    <p>A blog on how to geo-monitor user activity with Telegram nearby map.</p>
   <li><a href="https://projetfox.com/en/2022/08/geogramint-an-osint-geolocalization-tool-for-telegram/">ProjectFox</a></li> 
    <p>This a Blog from the Team behind Geogramint, an OSINT geolocalization tool for Telegram.</p>
+  <li><a href="https://gijn.org/2022/05/19/how-journalists-can-investigate-on-telegram/">Smaranda Tolosano (2022)</a></li> 
+   <p>How journalists can investigate Telegram.</p>
   <li><a href="https://medium.com/@TheInvestigatorBlog/best-online-tools-for-telegram-investigations-9746b17c90d8">The Investigator Blog</a></li> 
    <p>Best Online Tools for Telegram Investigations. (2023)</p>
   <li><a href="https://tomsguide.com/us/how-to-use-telegram,news-29636.html">Tomsguide, How To Use Telegram</a></li> 
