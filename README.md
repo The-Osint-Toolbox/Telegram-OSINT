@@ -45,6 +45,8 @@
    <p>A blog on how to geo-monitor user activity with Telegram nearby map.</p>
   <li><a href="https://projetfox.com/en/2022/08/geogramint-an-osint-geolocalization-tool-for-telegram/">ProjectFox</a></li> 
    <p>This a Blog from the Team behind Geogramint, an OSINT geolocalization tool for Telegram.</p>
+  <li><a href="https://osintteam.blog/open-source-tool-for-open-source-researchers-how-to-use-tg-collector-to-scrape-telegram-channels-a5e934ea3cf1">OSINT Team</a></li>
+   <p>How to use TG Collector to scrape Telegram channels.(2023)</p>
   <li><a href="https://gijn.org/2022/05/19/how-journalists-can-investigate-on-telegram/">Smaranda Tolosano</a></li> 
    <p>How journalists can investigate Telegram.(2022)</p>
   <li><a href="https://medium.com/@TheInvestigatorBlog/best-online-tools-for-telegram-investigations-9746b17c90d8">The Investigator Blog</a></li> 
