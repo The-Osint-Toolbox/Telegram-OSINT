@@ -99,6 +99,8 @@
   <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
  <li><a href="https://tgbots.io/">Tgbots</a></li> 
   <p>Website for searching for Telegram Bots.</p>
+ <li><a href="https://www.tgcollector.com/">TG Collector</a></li>
+  <p>TG collector is a browser based graphical user interface for collecting Telegram messages from the channels.</p>
  <li><a href="https://tgdev.io/tme/">Tgdev</a></li>
   <p>Search Telegram channels for keywords.</p> 
  <li><a href="https://tgstat.com/">Tgstat.com</a></li> 
