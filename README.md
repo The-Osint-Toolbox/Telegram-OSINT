@@ -97,6 +97,8 @@
   <p>Search for Channels, Bots & Groups.</p>
  <li><a href="https://github.com/estebanpdl/telegram-tracker">Telegram Tracker</a></li>
   <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
+ <li><a href="https://telegramtrac.streamlit.app/">TelegramTrac</a></li>
+  <p>Web version of Python package telegram-tracker developed by Esteban Ponce de León</p>
  <li><a href="https://tgbots.io/">Tgbots</a></li> 
   <p>Website for searching for Telegram Bots.</p>
  <li><a href="https://www.tgcollector.com/">TG Collector</a></li>
