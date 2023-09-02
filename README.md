@@ -57,6 +57,8 @@
 <br></br> 
 <p>Browser Extensions</p>
 <ul>
+  <li><a href="https://chrome.google.com/webstore/detail/tg-search-engine-tg-group/ilpgiemienkecbgdhdbgdjkafodgfojl/related">TG Search Engine</a></li>
+   <p>You can find groups and channels by entering a keyword into this extension.</p>
   <li><a href="https://github.com/pigpagnet/save-telegram-chat-history">Save Telegram Chat History</a></li>
    <p>Extension save Telegram chat history, including photos and works on deleted accounts.</p>
   <li><a href="https://chrome.google.com/webstore/detail/telegram-sender-telegram/kchbblidjcniipdkjlbjjakgdlbfnhgh">Telegram Sender</a></li>
