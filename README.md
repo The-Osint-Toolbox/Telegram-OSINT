@@ -99,7 +99,7 @@
   <p>Search for Channels, Bots & Groups.</p>
  <li><a href="https://github.com/estebanpdl/telegram-tracker">Telegram Tracker</a></li>
   <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
- <li><a href="https://telegramtrac.streamlit.app/">telegramtrac</a></li>
+ <li><a href="https://telegramtrac.streamlit.app/">Telegramtrac</a></li>
   <p>A browser interface to Telegram’s API. Generates files containing messages, metadata and includes additional modules for data analysis. It's a Telegram Tracker fork.</p>
  <li><a href="https://tgbots.io/">Tgbots</a></li> 
   <p>Website for searching for Telegram Bots.</p>
