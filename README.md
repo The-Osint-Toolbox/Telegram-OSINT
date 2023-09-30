@@ -87,11 +87,13 @@
   <p>Discover the location of nearby Telegram users.</p>
  <li><a href="https://telemetr.io/en/channels">Telemetr</a></li>
   <p>Analyze Telegram Channels.</p>
+ <li><a href="https://www.telemetryapp.io/">Telemetry</a></li>  
+  <p>Telemetry provides the most comprehensive and impactful Telegram insights for you and your team.</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
   <p>Public release of Telepathy, an OSINT toolkit for investigating Telegram chats.</p>
  <li><a href="https://telegramchannels.me/">Telegramchannels.me</a></li>
   <p>Directory of The Best Telegram Channels, Groups, and Bots.</p>
- <li><a href="https://telegcrack.com/">Telegrack.com</a></li>
+ <li><a href="https://telegcrack.com/">Telegrack</a></li>
   <p>Telecrack is a search engine enabling you to search telegra.ph</p>
  <li><a href="https://www.telegramdb.org/search">TelegramDB</a></li> 
   <p>A search engine to search for channels, groups, bots and users on Telegram.</p>
