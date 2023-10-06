@@ -130,7 +130,7 @@
   <li><a href="https://t.me/EmailLeaks_bot">Email Bot</a></li>
    <p>Email Bot for searching for emails, linked to Data1eaks channel.</p>
   <li><a href="https://t.me/getcontact_real_bot">Get Contact Bot</a></li> 
-   <p>GetContact BOT Telegram's only caller-id application aggregator.</p>
+   <p>Get Contact BOT Telegram's only caller-id application aggregator.</p>
   <li><a href="https://t.me/HowToFindRobot">How To Find Bots</a></li>
    <p>Paid Bot, I will help you find information from open sources.</p>
   <li><a href="https://web.telegram.org/k/#@LeakCheckBot">Leak Check Bot</a></li>
@@ -153,6 +153,8 @@
    <p>This bot displays user info when you forward a message to it.</p>
   <li><a href="https://t.me/username_to_id_bot">Username to Id Bot</a></li>
    <p>A Bot to get user, group and channel ids</p>
+  <li><a href="https://t.me/AV100RUbot">Vehicle Bot</a></li> 
+   <p>Checking the history of a used car by license plate number, VIN, and seller's phone number.</p>
   <li><a href="https://t.me/whois_bot">Whois Bot</a></li>
    <p>A simple domain whois lookup Bot</p>
 </ul>
