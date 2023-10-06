@@ -4,7 +4,7 @@
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
 <br></br>
-<p>I have created this separate Repository for Telegram as there is a large amount of resources available. Remember if you are investigating / researching on the actual platform to beware of your own OPSEC. 
+<p>I have created this separate Repository for Telegram as there is a large amount of resources available. Remember if you are investigating / researching on the actual platform to beware of your own OPSEC. Some BOTS will ask you for your Telegram phone number and you should think OPSEC before you decide to use the BOT.
 </p>
 <p>Consider, disposable devices, which you can reformat, Virtual Machines, VPNs, anti virus, malware protection, sock accounts and don’t forget your settings. You may want to disable automatic downloads, in your settings, this may prevent you inadvertently downloading something.
 </p>
