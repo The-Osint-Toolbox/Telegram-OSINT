@@ -141,6 +141,8 @@
    <p>This bot is going to check if an URL has been reported as a phishing site.</p>
   <li><a href="https://t.me/PhoneLeaks_Bot">Phone Leaks Bot</a></li>
    <p>Telephone Bot for searching for telephone numbers, linked to Data1eaks channel.</p>
+  <li><a href="https://t.me/bmi_np_bot">Phone Number Bot</a></li> 
+   <p>Determination of operator and other data by phone number. The bot is supported by BMI Bots.</p>
   <li><a href="https://t.me/sovaappbot">SOVA App Bot</a></li>
    <p>A Bot for searching for different kinds of identifiers.</p>
   <li><a href="https://t.me/tgscanrobot">Tgscanrobot</a></li> 
