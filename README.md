@@ -79,6 +79,8 @@
   <p>Combot is a community management tool for Telegram.</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
+ <li><a href="https://groupda.net/telegram/">Groupda</a></li>
+  <p>Search Telegram Channels.</p> 
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Message Analyzer</a></li>
   <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
  <li><a href="https://lyzem.com/">Lyzem</a></li>
