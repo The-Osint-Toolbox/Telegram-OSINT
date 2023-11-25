@@ -8,7 +8,7 @@
 </p>
 <p>Consider, disposable devices, which you can reformat, Virtual Machines, VPNs, anti virus, malware protection, sock accounts and don’t forget your settings. You may want to disable automatic downloads, in your settings, this may prevent you inadvertently downloading something.
 </p>
-<p>Check that you are happy with any of the resources you use, as an example,two of the browser extensions have quite evasive privacy polices, read them first before using them. Some of the Bots are free others are paid for services.</P>
+<p>Check that you are happy with any of the resources you use, as an example,two of the browser extensions have quite evasive privacy polices, read them first before using them. Some of the Bots are free others are paid for services. Always remember youe OPSEC when using Bots,as not all will be what they say they are.</P>
 <br></br>
 <table>
  <tr>
@@ -145,6 +145,8 @@
    <p>Telephone Bot for searching for telephone numbers, linked to Data1eaks channel.</p>
   <li><a href="https://t.me/bmi_np_bot">Phone Number Bot</a></li> 
    <p>Determination of operator and other data by phone number. The bot is supported by BMI Bots.</p>
+  <li><a href="https://t.me/SangMata_beta_bot">Sang Mata Bot</a></li> 
+   <p>Bot that can track name and username changes and notify it in your group.</p
   <li><a href="https://t.me/sovaappbot">SOVA App Bot</a></li>
    <p>A Bot for searching for different kinds of identifiers.</p>
   <li><a href="https://t.me/tgscanrobot">Tgscanrobot</a></li> 
