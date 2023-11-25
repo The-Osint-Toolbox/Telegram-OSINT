@@ -35,6 +35,8 @@
    <p>A list of useful tools, techniques, tradecraft and tactics on how to research Telegram.</p>
   <li><a href="https://gijn.org/2023/06/30/social-search-techniques-using-tiktok-telegram-from-henk-van-ess/">Henk van Ess</a></li>
    <p>Social search techniques using TikTok and Telegram. (2023)</p>
+  <li><a href="https://osintteam.blog/telegram-security-best-practices-1b33eb10be05">Officer's Notes</a></li> 
+   <p>Telegram Security Best Practices (2023)</p> 
   <li><a href="https://www.osintcombine.com/post/telegram-chats-media">Osint Combine</a></li>
    <p>Details of Telegram chats & media.</p>
   <li><a href="https://www.osintme.com/index.php/2022/10/18/the-osint-me-ultimate-guide-to-telegram-osint-and-privacy/">Osint Me</a></li> 
