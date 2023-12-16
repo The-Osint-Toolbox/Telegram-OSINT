@@ -105,6 +105,8 @@
   <p>Discover Popular Telegram Channels, Groups, Bots and Games.</p>
  <li><a href="https://xtea.io/ts_en.html#gsc.tab=0">Telegram Search Engine</a></li> 
   <p>Search for Channels, Bots & Groups.</p>
+ <li><a href="https://github.com/SocialLinks-IO/telegram-similar-channels">Telegram Simialr Channels</a></li> 
+  <p>Telegram similar channels search tool (CLI + Maltego).</p>
  <li><a href="https://github.com/estebanpdl/telegram-tracker">Telegram Tracker</a></li>
   <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
  <li><a href="https://telegramtrac.streamlit.app/">Telegramtrac</a></li>
