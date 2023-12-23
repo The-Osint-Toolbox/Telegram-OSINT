@@ -29,7 +29,7 @@
    <p>The final part of the OSINT VM build. (2023)</p>
   <li><a href="https://medium.com/@cyb_detective/analyzing-telegram-chats-and-channels-regular-expressions-in-osint-in-practice-48810d5b77e6">Cyber Detective, Chats & Channels</a></li>
    <p>Analyzing Telegram chats and channels. Regular expressions in OSINT in practice.</p>
-  <li><a href="https://blog.netrunner.lol/telerecon-telegram-investigation-tool-13f3bd2ef64a">CyberRaya</a></li>
+  <li><a href="https://blog.netrunner.lol/telerecon-telegram-investigation-tool-13f3bd2ef64a">CyberRaya (2023)</a></li>
    <p>Telerecon: Telegram Investigation Tool.</p>
   <li><a href="https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/">Hatless1der, Five Basic Tips</a></li>
    <p>Tips on how to use Google dorking and inpsect element to research Telegram.</p>
