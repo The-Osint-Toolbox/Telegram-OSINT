@@ -145,6 +145,8 @@
    <p>Paid Bot, I will help you find information from open sources.</p>
   <li><a href="https://web.telegram.org/k/#@LeakCheckBot">Leak Check Bot</a></li>
    <p>Check Email & Usernames.</p>
+  <li><a href="https://t.me/US2LeakOSINTbot">Leak OSINT</a></li>
+    <p>Check Email & Usernames.</p>
   <li><a href="https://t.me/maigret_osint_bot">Maigret Osint Bot</a></li>
    <p>Bot version of the popular CLI username search.</p>
   <li><a href="https://t.me/isPhishBot">Phish Bot</a></li> 
