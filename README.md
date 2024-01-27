@@ -114,7 +114,9 @@
  <li><a href="https://telegramtrac.streamlit.app/">Telegramtrac</a></li>
   <p>A browser interface to Telegram’s API. Generates files containing messages, metadata and includes additional modules for data analysis. It's a Telegram Tracker fork.</p>
  <li><a href="https://github.com/sockysec/Telerecon">Telerecon</a></li> 
-  <p>A reconnaissance framework for researching and investigating Telegram.</p>   
+  <p>A reconnaissance framework for researching and investigating Telegram.</p>
+ <li><a href="https://github.com/tsale/TeleTracker">TeleTracker</a></li>
+   <p>TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels.</p>
  <li><a href="https://tgbots.io/">Tgbots</a></li> 
   <p>Website for searching for Telegram Bots.</p>
  <li><a href="https://www.tgcollector.com/">TG Collector</a></li>
