@@ -127,6 +127,8 @@
   <p>Telegram channels and groups catalogue.</p>
  <li><a href="https://tlgrm.eu/channels">Tlgrm</a></li>
   <p>Discover interesting channels for your Telegram.</p>
+ <li><a href="https://github.com/drego85/tosint">TOsint</a></li> 
+  <p>OSINT analysis tools of a Telegram bot.</p>
 </ul>
 <br></br> 
 <p>Telegram Bots</p>
