@@ -194,7 +194,8 @@
  <li>t.me/USERNAME</li>
  <li>web.telegram.org/k/#@USERNAME</li>
  <li>t.me/joinchat/HASHVALUE</li>
- <li>t.me/+TELEPHONE-NUMBER</li> 
+ <li>t.me/+TELEPHONE-NUMBER</li>
+ <li>t.me/s/PREVIEW CHANNEL</li>
 </ul>
 <br></br>
 <p>Google Dorks</p>
@@ -202,7 +203,6 @@
  <li>site:t.me “search term”</li>
  <li>site:telegram.me “search term”</li>
  <li>“t.me/joinchat” “search term”</li>
- <li>t.me/s/PREVIEW CHANNEL</li>
 </ul>
 <br></br>
 <p>Search Engine</p>
