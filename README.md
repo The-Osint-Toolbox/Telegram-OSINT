@@ -202,6 +202,7 @@
  <li>site:t.me “search term”</li>
  <li>site:telegram.me “search term”</li>
  <li>“t.me/joinchat” “search term”</li>
+ <li>t.me/s/PREVIEW CHANNEL</li>
 </ul>
 <br></br>
 <p>Search Engine</p>
