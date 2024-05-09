@@ -17,8 +17,6 @@
 </table>
 <p>Blogs</p>
  <ul>
-  <li><a href="https://www.aware-online.com/en/category/telegram-en/">Aware-Online, Geolocation</a></li>
-   <p>How to search Telegram groups based on location.</p>
   <li><a href="https://cqcore.uk/telegram-fundamentals/">Cqcore, Telegram Fundamentals</a></li>
    <p>How to set a Telegram account up and the OPSEC issues you need to know. (2022)</p>
   <li><a href="https://www.cqcore.uk/telegram-osint-vm-part-1/">Cqcore, Telegram VM Part 1</a></li>
