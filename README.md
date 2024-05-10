@@ -193,7 +193,7 @@
  <li>web.telegram.org/k/#@USERNAME</li>
  <li>t.me/joinchat/HASHVALUE</li>
  <li>t.me/+TELEPHONE-NUMBER</li>
- <li>t.me/s/PREVIEW CHANNEL</li>
+ <li>t.me/s/PREVIEW CHANNEL or telegram.me/s/PREVIEW CHANNEL</li>
 </ul>
 <br></br>
 <p>Google Dorks</p>
