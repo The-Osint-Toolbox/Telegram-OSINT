@@ -77,6 +77,8 @@
   <p>A Curated List of Awesome Telegram OSINT Tools, Sites & Resources.</p> 
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Bellingcat, Phone Number Checker</a></li>
   <p>This script lets you check whether a specific phone number is connected to a Telegram account.</p>
+ <li><a href="https://github.com/IvanGlinkin/CCTV">CCTV</a></li>
+  <p>Close-Circuit Telegram Vision revolutionizes location tracking, offering precise tracking within 50-100 meters.</p>
  <li><a href="https://combot.org/top/telegram/groups">Combot</a></li> 
   <p>Combot is a community management tool for Telegram.</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
