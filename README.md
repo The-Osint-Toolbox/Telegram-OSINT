@@ -1,7 +1,7 @@
 # Telegram-OSINT
 <br></br>
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <br></br>
 <p>I have created this separate Repository for Telegram as there is a large amount of resources available. Remember if you are investigating / researching on the actual platform to beware of your own OPSEC. Some BOTS will ask you for your Telegram phone number and you should think OPSEC before you decide to use the BOT.
