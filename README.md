@@ -91,8 +91,10 @@
   <p>Lyzem is a search engine created specifically for Telegram.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>
   <p>Discover the location of nearby Telegram users.</p>
- <li><a href="https://telemetr.io/en/channels">Telemetr</a></li>
+ <li><a href="https://telemetr.io/en/channels">Telemetr.io</a></li>
   <p>Analyze Telegram Channels.</p>
+ <li><a href="https://telemetr.me/">Telemtr.me</a></li>
+  <p>Analyze Telegram Channels</p>
  <li><a href="https://www.telemetryapp.io/">Telemetry</a></li>  
   <p>Telemetry provides the most comprehensive and impactful Telegram insights for you and your team.</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
