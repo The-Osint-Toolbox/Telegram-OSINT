@@ -147,6 +147,8 @@
    <p>Shows the approximate creation date for any account in Telegram.</p>
   <li><a href="https://t.me/dataLeaks_bot">Data leaks Bot</a></li>
    <p>You can search for personal data by name, phone or email.</p>
+  <li><a href="https://t.me/downloadlyio_bot">Downloady.io</a></li>
+   <p>Download content from the internet.</p>
   <li><a href="https://t.me/EmailLeaks_bot">Email Bot</a></li>
    <p>Email Bot for searching for emails, linked to Data1eaks channel.</p>
   <li><a href="https://t.me/getcontact_real_bot">Get Contact Bot</a></li> 
