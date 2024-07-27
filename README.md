@@ -89,6 +89,8 @@
   <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
  <li><a href="https://lyzem.com/">Lyzem</a></li>
   <p>Lyzem is a search engine created specifically for Telegram.</p>
+ <li><a href="https://www.telegram-group.com/en/">TelegramGroup</a></li>
+  <p>Search for Telegram, Bots, Channels & Groups.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>
   <p>Discover the location of nearby Telegram users.</p>
  <li><a href="https://telemetr.io/en/channels">Telemetr.io</a></li>
