@@ -81,6 +81,8 @@
   <p>Close-Circuit Telegram Vision revolutionizes location tracking, offering precise tracking within 50-100 meters.</p>
  <li><a href="https://combot.org/top/telegram/groups">Combot</a></li> 
   <p>Combot is a community management tool for Telegram.</p>
+ <li><a href="https://t.me/whois_bot">Whois Bot</a></li>
+   <p>A simple domain whois lookup Bot</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://groupda.net/telegram/">Groupda</a></li>
@@ -187,8 +189,6 @@
    <p>A Bot to get user, group and channel ids</p>
   <li><a href="https://t.me/AV100RUbot">Vehicle Bot</a></li> 
    <p>Checking the history of a used car by license plate number, VIN, and seller's phone number.</p>
-  <li><a href="https://t.me/whois_bot">Whois Bot</a></li>
-   <p>A simple domain whois lookup Bot</p>
 </ul>
 <br></br> 
 <p>Telegram Custom Search Engines</p>
