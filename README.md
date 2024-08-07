@@ -135,6 +135,8 @@
   <p>Discover interesting channels for your Telegram.</p>
  <li><a href="https://github.com/drego85/tosint">TOsint</a></li> 
   <p>OSINT analysis tools of a Telegram bot.</p>
+  <li><a href="https://directorytg.com">DirectoryTG</a></li> 
+  <p>Telegram channels, groups, and bots directory.</p>
 </ul>
 <br></br> 
 <p>Telegram Bots</p>
