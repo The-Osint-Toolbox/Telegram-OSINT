@@ -8,7 +8,8 @@
 </p>
 <p>Consider, disposable devices, which you can reformat, Virtual Machines, VPNs, anti virus, malware protection, sock accounts and don’t forget your settings. You may want to disable automatic downloads, in your settings, this may prevent you inadvertently downloading something.
 </p>
-<p>Check that you are happy with any of the resources you use, as an example,two of the browser extensions have quite evasive privacy polices, read them first before using them. Some of the Bots are free others are paid for services. Always remember youe OPSEC when using Bots,as not all will be what they say they are.</P>
+<p>Check that you are happy with any of the resources you use, as an example,two of the browser extensions have quite evasive privacy polices, read them first before using them. Some of the Bots are free others are paid for services. Always remember youe OPSEC when using Bots,as not all will be what they say they are.</p>
+<p>*Due to the recent arrest of the Telegram founder in France (August 2024) some resources reliant of the Nearby Feature will not work*</p>
 <br></br>
 <table>
  <tr>
@@ -77,13 +78,13 @@
   <p>A Curated List of Awesome Telegram OSINT Tools, Sites & Resources.</p> 
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Bellingcat, Phone Number Checker</a></li>
   <p>This script lets you check whether a specific phone number is connected to a Telegram account.</p>
- <li><a href="https://github.com/IvanGlinkin/CCTV">CCTV</a></li>
+ <li><a href="https://github.com/IvanGlinkin/CCTV">CCTV</a></li>(Currentlt Not Working)
   <p>Close-Circuit Telegram Vision revolutionizes location tracking, offering precise tracking within 50-100 meters.</p>
  <li><a href="https://combot.org/top/telegram/groups">Combot</a></li> 
   <p>Combot is a community management tool for Telegram.</p>
  <li><a href="https://t.me/whois_bot">Whois Bot</a></li>
    <p>A simple domain whois lookup Bot</p>
- <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
+ <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>(Currentlt Not Working)
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://groupda.net/telegram/">Groupda</a></li>
   <p>Search Telegram Channels.</p> 
@@ -93,7 +94,7 @@
   <p>Lyzem is a search engine created specifically for Telegram.</p>
  <li><a href="https://www.telegram-group.com/en/">TelegramGroup</a></li>
   <p>Search for Telegram, Bots, Channels & Groups.</p>
- <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>
+ <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>(Currentlt Not Working)
   <p>Discover the location of nearby Telegram users.</p>
  <li><a href="https://telemetr.io/en/channels">Telemetr.io</a></li>
   <p>Analyze Telegram Channels.</p>
