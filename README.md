@@ -94,6 +94,8 @@
   <p>Lyzem is a search engine created specifically for Telegram.</p>
  <li><a href="https://www.telegram-group.com/en/">TelegramGroup</a></li>
   <p>Search for Telegram, Bots, Channels & Groups.</p>
+ <li><a href="https://bellingcat.github.io/telegram-group-joiner/">Telegram Group Joiner</a></li> 
+  <li>Use this tool to batch add a Telegram account (via its phone number) to multiple Telegram groups.</li>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram Nearby Map</a></li>(Currentlt Not Working)
   <p>Discover the location of nearby Telegram users.</p>
  <li><a href="https://telemetr.io/en/channels">Telemetr.io</a></li>
