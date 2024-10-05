@@ -16,6 +16,10 @@
   <td>Telegram</td>
  </tr>
 </table>
+<p>Due to Telegram's recent change to the their ToS, I have included the new transparency report bot</p>
+ <ul>
+   <li><a href="https://t.me/transparency">Transparency Report Bot</a></li>
+ </ul> 
 <p>Blogs</p>
  <ul>
   <li><a href="https://cqcore.uk/telegram-fundamentals/">Cqcore, Telegram Fundamentals</a></li>
