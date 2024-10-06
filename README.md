@@ -94,6 +94,8 @@
   <p>Search Telegram Channels.</p> 
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Message Analyzer</a></li>
   <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
+ <li><a href="https://osint.rocks/">OSINT Rocks</a></li>
+  <p>Check a telephone to see if an accoutn exists.</p>
  <li><a href="https://lyzem.com/">Lyzem</a></li>
   <p>Lyzem is a search engine created specifically for Telegram.</p>
  <li><a href="https://www.telegram-group.com/en/">TelegramGroup</a></li>
