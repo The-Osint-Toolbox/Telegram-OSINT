@@ -194,6 +194,8 @@
    <p>A Bot for finding Telegram groups of a persons.</p>
   <li><a href="https://web.telegram.org/k/#@tgdb_bot">TelegramDB Search Bot</a></li>
    <p>This bot allows you to find public channels and groups, and see what public chats a user is in, or has been in.</p>
+  <li><a href="https://t.me/TrueCaller_Z_Bot">TrueCaller</a></li>
+   <p>Unofficial Bot to get information about a phone number.</p>
   <li><a href="https://t.me/UniversalSearchRobot">Universal Search Bot</a></li>
    <p>Search multiple sources for phone numbers, username, email addresses etc.</p>
   <li><a href="https://t.me/UniversalSearchEasyBot">Universal Easy Search Bot</a></li>
