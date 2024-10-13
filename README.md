@@ -196,6 +196,8 @@
    <p>This bot allows you to find public channels and groups, and see what public chats a user is in, or has been in.</p>
   <li><a href="https://t.me/UniversalSearchRobot">Universal Search Bot</a></li>
    <p>Search multiple sources for phone numbers, username, email addresses etc.</p>
+  <li><a href="https://t.me/UniversalSearchEasyBot">Universal Easy Search Bot</a></li>
+   <p>Phone number Bot linked to Facebook, Telegram, Viber & WhatsApp profiles.</p>
   <li><a href="https://t.me/userinfobot">UserInfoBot</a></li> 
    <p>This bot displays user info when you forward a message to it.</p>
   <li><a href="https://t.me/username_to_id_bot">Username to Id Bot</a></li>
