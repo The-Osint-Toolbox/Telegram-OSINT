@@ -50,6 +50,8 @@
    <p>Batch scraping from Telegram channels and groups, using TG-API.</p>
   <li><a href="https://os2int.com/toolbox/geo-monitoring-telegram-user-activity-with-telegram-nearby-map/">Os2int, Nearby Map</a></li>
    <p>A blog on how to geo-monitor user activity with Telegram nearby map.</p>
+  <li><a href="https://osintteam.blog/4-best-telegram-bots-for-phone-number-investigation-0753010635b3">Practical OSINT</a></li>
+   <p>4 best Telegram Bots for phone number investigation. (2024)</p>
   <li><a href="https://projetfox.com/en/2022/08/geogramint-an-osint-geolocalization-tool-for-telegram/">ProjectFox</a></li> 
    <p>This a Blog from the Team behind Geogramint, an OSINT geolocalization tool for Telegram.</p>
   <li><a href="https://osintteam.blog/open-source-tool-for-open-source-researchers-how-to-use-tg-collector-to-scrape-telegram-channels-a5e934ea3cf1">Sayyara Mammadova</a></li>
