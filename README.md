@@ -164,6 +164,8 @@
    <p>Shows the approximate creation date for any account in Telegram.</p>
   <li><a href="https://t.me/dataLeaks_bot">Data leaks Bot</a></li>
    <p>You can search for personal data by name, phone or email.</p>
+  <li><a href="https://t.me/detectivarobot">DetectivA</a></li>
+   <p>Russain telephone lookup for linked Instagram & VK accounts.</p>
   <li><a href="https://t.me/downloadlyio_bot">Downloady.io</a></li>
    <p>Download content from the internet.</p>
   <li><a href="https://t.me/EmailLeaks_bot">Email Bot</a></li>
