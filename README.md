@@ -152,6 +152,8 @@
   <p>Telegram channels, groups, and bots directory.</p>
  <li><a href="https://www.tricksfly.net/social/telegram/">TricksFly</a></li>
   <p>Telegram Channel & Group links.</p>
+ <li><a href="https://github.com/vognik/maltego-telegram">Maltego Telegram</a></li>
+  <p>Free Maltego Transforms Set for OSINT on Telegram</p>
 </ul>
 <br></br> 
 <p>Telegram Bots</p>
