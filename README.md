@@ -141,7 +141,9 @@
  <li><a href="https://www.tgcollector.com/">TG Collector</a></li>
   <p>TG collector is a browser based graphical user interface for collecting Telegram messages from the channels.</p>
  <li><a href="https://tgdev.io/tme/">Tgdev</a></li>
-  <p>Search Telegram channels for keywords.</p> 
+  <p>Search Telegram channels for keywords.</p>
+ <li><a href="https://github.com/MJCruickshank/TGeocoder">TGeocoder</a></li>
+  <p>Automated parsing and geocoding of Telegram news channels.</p>
  <li><a href="https://tgstat.com/">Tgstat.com</a></li> 
   <p>Telegram channels and groups catalogue.</p>
  <li><a href="https://tlgrm.eu/channels">Tlgrm</a></li>
