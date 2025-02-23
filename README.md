@@ -156,6 +156,8 @@
   <p>Telegram Channel & Group links.</p>
  <li><a href="https://github.com/vognik/maltego-telegram">Maltego Telegram</a></li>
   <p>Free Maltego Transforms Set for OSINT on Telegram</p>
+ <li><a href="https://web.archive.org/collection-search/telegram">Wayback Machine</a></li> 
+  <p>Historical Telegram information search.</p> 
 </ul>
 <br></br> 
 <p>Telegram Bots</p>
