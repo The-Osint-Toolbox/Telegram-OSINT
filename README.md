@@ -158,6 +158,8 @@
   <p>Free Maltego Transforms Set for OSINT on Telegram</p>
  <li><a href="https://web.archive.org/collection-search/telegram">Wayback Machine</a></li> 
   <p>Historical Telegram information search.</p> 
+ <li><a href="https://xtea.io/ts_en.html#gsc.tab=0">XTEA</a></li> 
+  <p>Chinese search engine for Channels, Bots & Groups.</p>
 </ul>
 <br></br> 
 <p>Telegram Bots</p>
