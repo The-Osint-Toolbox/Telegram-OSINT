@@ -124,6 +124,8 @@
   <p>Discover Popular Telegram Channels, Groups, Bots and Games.</p>
  <li><a href="https://limits.tginfo.me/en">Telegram Limits</a></li>
   <p>Telegram uses limits to ensure that users follow Fair Usage Policy and to keep the service running.</p>
+ <li><a href="https://github.com/unnohwn/telegram-scraper">Telegram Scraper</a></li> 
+  <p>A Python script that allows you to scrape messages and media from Telegram channels using the Telethon library.</p>
  <li><a href="https://xtea.io/ts_en.html#gsc.tab=0">Telegram Search Engine</a></li> 
   <p>Search for Channels, Bots & Groups.</p>
  <li><a href="https://github.com/SocialLinks-IO/telegram-similar-channels">Telegram Simialr Channels</a></li> 
