@@ -170,6 +170,9 @@
 <br></br> 
 <p>Telegram Bots</p>
 <ul>
+  <li><a href="https://github.com/topics/telegram-bot">Telegram Bot List</a></li>
+   <p>GitHub Telegram Bot List</p>
+  <br></br>
   <li><a href="https://t.me/AllInOneLeaksBOT">All In One Leaks</a></li>
    <p>OSINT Toolbox, search leaked data for Email, Phone Number, Facebook account, Twitter profile and Telegram username.</p>
   <lI><a href="https://t.me/botodetective">Boto Detective</a></li>
