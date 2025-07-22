@@ -93,14 +93,14 @@
   <p>Trade IDs not tied to a SIM card which allow logging into Telegram with your blockchain account.</p> 
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>(Currentlt Not Working)
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
- <li><a href="https://groupda.net/telegram/">Groupda</a></li>
-  <p>Search Telegram Channels.</p> 
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Message Analyzer</a></li>
   <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
- <li><a href="https://osint.rocks/">OSINT Rocks</a></li>
-  <p>Check a telephone to see if an accoutn exists.</p>
  <li><a href="https://lyzem.com/">Lyzem</a></li>
   <p>Lyzem is a search engine created specifically for Telegram.</p>
+ <li><a href="https://osint.rocks/">OSINT Rocks</a></li>
+   <p>Check a telephone to see if an accoutn exists.</p>
+ <li><a href="https://github.com/robertaitch">Robert Aitch</a></li> 
+  <p>Selection of cmd line tools.</p> 
  <li><a href="https://www.telegram-group.com/en/">TelegramGroup</a></li>
   <p>Search for Telegram, Bots, Channels & Groups.</p>
  <li><a href="https://bellingcat.github.io/telegram-group-joiner/">Telegram Group Joiner</a></li>
