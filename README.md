@@ -101,6 +101,8 @@
    <p>Check a telephone to see if an accoutn exists.</p>
  <li><a href="https://github.com/robertaitch">Robert Aitch</a></li> 
   <p>Selection of cmd line tools.</p> 
+ <li><a href="https://statiko.io/">Statiko</a></li>
+  <p>Real-time analytics for public Telegram channels: post history with edits and deletions preserved, reach, growth, trending topics, and an MCP connector for AI assistants.</p>
  <li><a href="https://www.telegram-group.com/en/">TelegramGroup</a></li>
   <p>Search for Telegram, Bots, Channels & Groups.</p>
  <li><a href="https://bellingcat.github.io/telegram-group-joiner/">Telegram Group Joiner</a></li>
