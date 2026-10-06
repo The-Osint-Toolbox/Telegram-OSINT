@@ -155,6 +155,8 @@
   <p>Automated parsing and geocoding of Telegram news channels.</p>
  <li><a href="https://tgscope.io/">TGScope</a></li>
   <p>Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people.</p>
+ <li><a href="https://tgscope.io/tools/telegram-channel-creation-date">TGScope Channel Creation Date</a></li>
+  <p>Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID.</p>
  <li><a href="https://tgstat.com/">Tgstat.com</a></li> 
   <p>Telegram channels and groups catalogue.</p>
  <li><a href="https://tlgrm.eu/channels">Tlgrm</a></li>
