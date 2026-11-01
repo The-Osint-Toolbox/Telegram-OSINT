@@ -95,6 +95,8 @@
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Message Analyzer</a></li>
   <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
+ <li><a href="https://lurkapi.com/docs/telegram">LurkAPI</a></li>
+  <p>Paid API (free credits to start) that returns a public channel's subscriber count, its posts with views, media and reactions, and single posts by link, as JSON. No Telegram account needed.</p>
  <li><a href="https://lyzem.com/">Lyzem</a></li>
   <p>Lyzem is a search engine created specifically for Telegram.</p>
  <li><a href="https://osint.rocks/">OSINT Rocks</a></li>
