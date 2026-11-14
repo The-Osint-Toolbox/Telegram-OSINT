@@ -151,6 +151,8 @@
   <p>Website for searching for Telegram Bots.</p>
  <li><a href="https://www.tgcollector.com/">TG Collector</a></li>
   <p>TG collector is a browser based graphical user interface for collecting Telegram messages from the channels.</p>
+ <li><a href="https://tgden.com/">TgDen</a></li>
+  <p>TgDen is a search engine and catalog for Telegram covering 1.7M+ channels, 250K+ group chats and 228K+ bots (RU/EN), with a REST API and MCP server.</p>
  <li><a href="https://tgdev.io/tme/">Tgdev</a></li>
   <p>Search Telegram channels for keywords.</p>
  <li><a href="https://github.com/MJCruickshank/TGeocoder">TGeocoder</a></li>
